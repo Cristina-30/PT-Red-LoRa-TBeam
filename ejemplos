@@ -1,6 +1,6 @@
 # Ejemplos de programación
 
 En esta carpeta se incluyen los diferentes ejemplos de programación desarrollados para validar el funcionamiento de la red de comunicación
-basada en tecnología LoRa, utilizando la tarjeta LILYGO TTGO T-Beam V1.2.
+basada en tecnología LoRa, utilizando la tarjeta LILYGO TTGO T-Beam V1.2
 
 Los ejemplos están organizados por etapas, desde pruebas básicas de hardware hasta pruebas experimentales de caracterización del enlace.
