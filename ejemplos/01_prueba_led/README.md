@@ -18,6 +18,8 @@ Esta validacion es un paso previo indispensable antes de implementar aplicacione
 # Conexion del LED
 - **Ánodo (patilla larga del LED):** conectado al pin **GPIO14**
 - **Cátodo (patilla corta del LED):** conectado a **GND**
+> ⚠️ Es importante respetar la polaridad del LED para evitar un funcionamiento incorrecto.
+
 
 
 
