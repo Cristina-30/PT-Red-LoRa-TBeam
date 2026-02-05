@@ -20,6 +20,14 @@ Esta validacion es un paso previo indispensable antes de implementar aplicacione
 - **Cátodo (patilla corta del LED):** conectado a **GND**
 > ⚠️ Es importante respetar la polaridad del LED para evitar un funcionamiento incorrecto.
 
+## Funcionamiento del programa
+El programa configura el pin GPIO14 como salida digital.  
+Dentro del ciclo principal (`loop()`), el LED se enciende durante 1 segundo y posteriormente se apaga durante 1 segundo, generando un parpadeo visible.
+
+---
+
+## Ubicación del código
+
 
 
 
