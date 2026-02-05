@@ -1,4 +1,9 @@
-void setup() {  
+/*Prueba básica de encendido y apagado de LED
+Tarjeta: LILYGO TTGO T-Beam V1.2
+Pin utilizado: GPO14
+
+Este progrma per mite verificar el correcto funcionamiento de los pines GPIO del microntrolador ESP32, mediante el parpadeo de un LED 
+  void setup() {  
   pinMode(14, OUTPUT);
 
 }
