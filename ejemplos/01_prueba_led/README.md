@@ -16,7 +16,8 @@ Esta validacion es un paso previo indispensable antes de implementar aplicacione
 - 1 Cable USB tipo C (datos).
 
 # Conexion del LED
--
+- **Ánodo (patilla larga del LED):** conectado al pin **GPIO14**
+- **Cátodo (patilla corta del LED):** conectado a **GND**
 
 
 
