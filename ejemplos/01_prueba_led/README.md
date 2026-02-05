@@ -24,9 +24,15 @@ Esta validacion es un paso previo indispensable antes de implementar aplicacione
 El programa configura el pin GPIO14 como salida digital.  
 Dentro del ciclo principal (`loop()`), el LED se enciende durante 1 segundo y posteriormente se apaga durante 1 segundo, generando un parpadeo visible.
 
----
-
 ## Ubicación del código
+ejemplos/01_prueba_led/Prueba_Encender_led_Lora.ino
+
+## Resultados esperados
+Al cargar el programa en la tarjeta, el LED debe encenderse y apagarse de forma periódica cada segundo, confirmando el correcto funcionamiento del hardware y del entorno de programación.
+
+## Notas
+Este ejemplo corresponde a una prueba básica de validación de hardware y sirve como base para el desarrollo de aplicaciones IoT más avanzadas basadas en LoRa.
+
 
 
 
